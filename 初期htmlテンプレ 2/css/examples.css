@@ -59,7 +59,8 @@ body{
 	position: relative;
 }
 h1{
-	font-size: 6em;
+  padding-top:300px;
+	font-size: 120px;
 }
 p{
 	font-size: 2em;
@@ -241,4 +242,3 @@ p{
 	right:10px;
 	z-index: 999;
  }
-
